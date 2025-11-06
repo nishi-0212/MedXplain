@@ -1,0 +1,15 @@
+tensorflow==2.15.0
+keras==2.15.0
+numpy
+pandas
+matplotlib
+seaborn
+opencv-python
+scikit-learn
+Pillow
+tqdm
+torch
+torchvision
+grad-cam
+jupyter
+notebook
